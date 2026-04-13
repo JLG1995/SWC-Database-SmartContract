@@ -45,3 +45,6 @@ This project was built as a starting point smart contract to demonstrate:
 The possible updates of this smart contract may consist of:
 - A voting system based on voting for crypto policy ideas and future events for Stand With Crypto AZ Chapter
 - A JavaScript test file to test this smart contract outside of Remix Ethereum IDE
+
+# Note
+Will also test the smart contract on Testnet within the next few commits.
