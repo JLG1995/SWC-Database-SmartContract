@@ -47,4 +47,4 @@ The possible updates of this smart contract may consist of:
 - A JavaScript test file to test this smart contract outside of Remix Ethereum IDE
 
 # Note
-Will also test the smart contract on Testnet and using MetaMask, within the next few commits.
+Will also test the smart contract on Sepolia Testnet and using MetaMask, within the next few commits.
